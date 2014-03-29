@@ -5,10 +5,10 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.TreeSet;
 
-import external.JSON.JSONArray;
-import external.JSON.JSONException;
-import external.JSON.JSONObject;
-import external.JSON.JSONString;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+import org.json.JSONString;
 
 public class CanonicalJSON {
     /* Right now we only support one canonicalization strategy, which is

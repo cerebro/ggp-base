@@ -11,7 +11,7 @@ import org.ggp.base.util.http.HttpReader;
 import org.ggp.base.util.http.HttpWriter;
 import org.ggp.base.util.loader.RemoteResourceLoader;
 
-import external.JSON.JSONObject;
+import org.json.JSONObject;
 
 public class TiltyardRequestFarm_Test extends TestCase {
 	@Override

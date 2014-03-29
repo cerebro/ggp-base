@@ -8,7 +8,7 @@ import org.ggp.base.util.http.HttpReader;
 import org.ggp.base.util.http.HttpWriter;
 import org.ggp.base.util.logging.LogSummaryGenerator;
 
-import external.JSON.JSONException;
+import org.json.JSONException;
 
 /**
  * The "Exponent" Log Summarizer Server is a multi-threaded web server that makes

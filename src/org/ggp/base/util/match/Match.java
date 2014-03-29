@@ -28,9 +28,9 @@ import org.ggp.base.util.symbol.factory.SymbolFactory;
 import org.ggp.base.util.symbol.factory.exceptions.SymbolFormatException;
 import org.ggp.base.util.symbol.grammar.SymbolList;
 
-import external.JSON.JSONArray;
-import external.JSON.JSONException;
-import external.JSON.JSONObject;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 /**
  * Match encapsulates all of the information relating to a single match.

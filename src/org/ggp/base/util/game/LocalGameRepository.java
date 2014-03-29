@@ -18,8 +18,8 @@ import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpServer;
 
-import external.JSON.JSONException;
-import external.JSON.JSONObject;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 /**
  * Local game repositories provide access to game resources stored on the

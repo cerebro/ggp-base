@@ -7,9 +7,9 @@ import java.io.OutputStreamWriter;
 import java.net.URL;
 import java.net.URLConnection;
 
-import external.JSON.JSONArray;
-import external.JSON.JSONException;
-import external.JSON.JSONObject;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 /**
  * RemoteResourceLoader loads remotely-stored resources. It can load resources

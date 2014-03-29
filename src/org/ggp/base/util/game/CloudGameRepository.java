@@ -14,7 +14,7 @@ import java.util.Set;
 import java.util.zip.GZIPInputStream;
 import java.util.zip.GZIPOutputStream;
 
-import external.JSON.JSONObject;
+import org.json.JSONObject;
 
 /**
  * Cloud game repositories provide access to game resources stored on game

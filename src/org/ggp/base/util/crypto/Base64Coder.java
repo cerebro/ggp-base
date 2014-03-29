@@ -13,7 +13,7 @@
 // Please contact the author if you need another license.
 // This module is provided "as is", without warranties of any kind.
 
-package external.Base64Coder;
+package org.ggp.base.util.crypto;
 
 /**
 * A Base64 encoder/decoder.

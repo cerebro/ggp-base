@@ -4,8 +4,8 @@ import junit.framework.TestCase;
 
 import org.ggp.base.util.crypto.BaseCryptography.EncodedKeyPair;
 
-import external.JSON.JSONException;
-import external.JSON.JSONObject;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 /**
  * Unit tests for the SignableJSON class, which provides an easy way

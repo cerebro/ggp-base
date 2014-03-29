@@ -6,9 +6,9 @@ import java.util.Set;
 
 import org.ggp.base.util.loader.RemoteResourceLoader;
 
-import external.JSON.JSONArray;
-import external.JSON.JSONException;
-import external.JSON.JSONObject;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 /**
  * Remote game repositories provide access to game resources stored on game

@@ -7,8 +7,8 @@ import java.security.SignatureException;
 
 import org.ggp.base.util.crypto.CanonicalJSON.CanonicalizationStrategy;
 
-import external.JSON.JSONException;
-import external.JSON.JSONObject;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 public class SignableJSON {
     // If we need to use a canonicalization strategy that's not SIMPLE,

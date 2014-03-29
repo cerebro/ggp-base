@@ -22,8 +22,8 @@ import org.ggp.base.util.observer.Observer;
 import org.ggp.base.util.statemachine.MachineState;
 import org.ggp.base.util.statemachine.Role;
 
-import external.JSON.JSONException;
-import external.JSON.JSONObject;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 /**
  * SimpleGameSim is a utility program that lets you simulate play through a

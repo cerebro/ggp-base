@@ -10,7 +10,7 @@ import org.ggp.base.util.symbol.factory.SymbolFactory;
 import org.ggp.base.util.symbol.factory.exceptions.SymbolFormatException;
 import org.ggp.base.util.symbol.grammar.SymbolList;
 
-import external.JSON.JSONObject;
+import org.json.JSONObject;
 
 /**
  * Game objects contain all of the relevant information about a specific game,

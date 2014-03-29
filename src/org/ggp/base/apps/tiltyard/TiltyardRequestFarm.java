@@ -17,8 +17,8 @@ import org.ggp.base.util.http.HttpRequest;
 import org.ggp.base.util.http.HttpWriter;
 import org.ggp.base.util.loader.RemoteResourceLoader;
 
-import external.JSON.JSONException;
-import external.JSON.JSONObject;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 /**
  * The Tiltyard Request Farm is a multi-threaded web server that opens network
